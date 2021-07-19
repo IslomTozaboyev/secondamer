@@ -6,7 +6,7 @@ body {
 .clock {
   position: absolute;
   color: #fff;
-  top: 350px;
+  top: 450px;
   left: 300px;
   width: 100%;
   height: 100%;
@@ -17,7 +17,7 @@ body {
 }
 .function {
   position: absolute;
-  top: 420px;
+  top: 520px;
   left: 300px;
   width: 100%;
   height: 100%;
@@ -43,8 +43,8 @@ body {
   .clock {
     position: absolute;
     color: #fff;
-    top: 250px;
-    left: -40px;
+    top: 220px;
+    left: -20px;
     width: 100%;
     height: 100%;
     font-size: 2rem;
@@ -55,7 +55,7 @@ body {
   .function {
     position: absolute;
     top: 410px;
-    left: -50px;
+    left: -35px;
     width: 100%;
     height: 100%;
   }
@@ -64,7 +64,7 @@ body {
     color: #fff;
     border: 1px solid rgb(75, 71, 71);
     outline: none;
-    padding: 5px 10px;
+    padding: 5px 15px;
     margin: 0px 10px;
     font-size: 1.2rem;
     box-shadow: 0 0 10px rgb(73, 71, 71);
